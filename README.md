@@ -1,6 +1,6 @@
 # Andrea Balsamo
 
-Cloud & DevOps Engineer focused on reliable, maintainable infrastructure. I work across AWS, Terraform, Kubernetes, CI/CD, observability, and Linux systems, helping teams automate delivery and operate distributed services.
+Cloud & DevOps Engineer focused on reliable, maintainable infrastructure. I work across AWS, Terraform, Kubernetes, CI/CD, observability, and Linux systems. I help teams automate delivery and operate distributed services.
 
 ### What I work with
 
@@ -10,8 +10,8 @@ Cloud & DevOps Engineer focused on reliable, maintainable infrastructure. I work
 
 ### Selected repositories
 
-- [dotfiles](https://github.com/soulwaxx/dotfiles) — declarative macOS and Linux host configuration with Nix flakes, nix-darwin, and Home Manager.
-- [cashflow_manager](https://github.com/soulwaxx/cashflow_manager) — a self-hosted, multi-user personal finance app with Docker and OpenID Connect support.
+- [dotfiles](https://github.com/soulwaxx/dotfiles): Declarative macOS and Linux host configuration with Nix flakes, nix-darwin, and Home Manager.
+- [cashflow_manager](https://github.com/soulwaxx/cashflow_manager): A self-hosted, multi-user personal finance app with Docker and OpenID Connect support.
 
 ### Connect
 
