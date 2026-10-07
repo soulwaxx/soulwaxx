@@ -6,7 +6,7 @@ Cloud & DevOps Engineer focused on reliable, maintainable infrastructure. I work
 
 - **Cloud & infrastructure:** AWS, Terraform, CloudFormation
 - **Containers & platforms:** Kubernetes, EKS, OpenShift
-- **Delivery & operations:** Jenkins, monitoring, logging, Linux/UNIX
+- **Delivery & operations:** CI/CD Tools, monitoring, logging, Linux/UNIX
 
 ### Selected repositories
 
